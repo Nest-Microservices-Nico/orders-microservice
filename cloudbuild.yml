@@ -16,6 +16,3 @@ steps:
         'push',
         'southamerica-west1-docker.pkg.dev/tienda-microservicios-456723/images-registry/orders-ms',
       ]
-logsBucket: 'gs://bucketnicolascarrasco'
-options:
-  logging: GCS_ONLY
