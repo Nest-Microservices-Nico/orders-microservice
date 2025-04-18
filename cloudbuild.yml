@@ -13,7 +13,6 @@ steps:
         'push',
         'southamerica-west1-docker.pkg.dev/tienda-microservicios-456723/images-registry/orders-ms',
       ]
-
 availableSecrets:
   secretManager:
     - versionName: projects/386001283984/secrets/orders_database_url/versions/1
